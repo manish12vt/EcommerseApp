@@ -1,0 +1,6 @@
+module Pods_EcommerceApp {
+  umbrella header "Pods-EcommerceApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
